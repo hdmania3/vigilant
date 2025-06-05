@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+
+http://filex.tv:8080/live/Home329/Sohailhome/275053.m3u8
+
+http://opplex.tv:8080/live/Raza335/3355141450/66213.m3u8
+http://xtv.ooo:8080/live/Raza335/3355141450/66213.m3u8
+
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/187267.m3u8
