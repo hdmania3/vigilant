@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1920x1080
+
+http://202.150.172.3:5000/udp/239.1.1.95:8544
+http://202.150.172.3:5000/udp/239.1.1.203:9192
+
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45088.m3u8
+
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/36581.m3u8
