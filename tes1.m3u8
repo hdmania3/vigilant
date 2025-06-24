@@ -1,5 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1920x1080
 
-http://ali.hlspull.yximgs.com/live/awei_msdy.flv
+
+http://pia.cx/live/p5uiBGl3/uRCDEBja/19519.m3u8
+
 
