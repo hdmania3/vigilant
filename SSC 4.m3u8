@@ -1,6 +1,10 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/112541.m3u8
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/112548.m3u8
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/400551959.m3u8
+
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400551967.m3u8
 
 
