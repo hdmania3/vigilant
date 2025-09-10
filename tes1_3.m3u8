@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+
+http://filex.tv:8080//live/Home329/Sohailhome/332941.m3u8
+
+
+
+
