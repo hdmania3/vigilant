@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-https://live.catvod.com/catvod_com.php?id=tiankongf1&token=44deb9d74c9632ee6ba87d529b22ffd59c19da9a3e91a24db20fd96eafe7a0da%3A1758378946
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191464.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153701.m3u8
+https://live.catvod.com/catvod_com.php?id=tiankongf1&token=44deb9d74c9632ee6ba87d529b22ffd59c19da9a3e91a24db20fd96eafe7a0da%3A1758378946
+
 
 
 http://muka03.wanicelife.com:8880/live/29us031901/adsf3rdsdc/2876.m3u8
