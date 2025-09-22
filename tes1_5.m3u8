@@ -1,9 +1,10 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://filex.tv:8080//live/Home329/Sohailhome/332941.m3u8
 http://31.42.184.158:8070/live/F28312/cc1dc138/306486.m3u8
 
 
-http://filex.tv:8080//live/Home329/Sohailhome/332941.m3u8
+
 
 
 
