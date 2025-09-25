@@ -2,17 +2,20 @@
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720
 
-http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
-http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
-
-
-http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-
+http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
 
 
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
-http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
+
+http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
+http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
+
+http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+
+
+
+
 
 http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
