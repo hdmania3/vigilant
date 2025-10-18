@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=600000,RESOLUTION=1920x1080
+
+http://mains.services/live/bshorty/Zv5le07a0J/cbceee38-4772-4b22-b2bb-797ce06177ed.m3u8
