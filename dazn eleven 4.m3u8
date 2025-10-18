@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379047.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=600000,RESOLUTION=1920x1080
 
+http://mains.services/live/bshorty/Zv5le07a0J/f67a882c-d564-4cff-b9db-19b8edef542d.m3u8
 
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165521.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165620.m3u8
@@ -10,3 +10,4 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/27214.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/35378.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401389140.m3u8
 
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379047.m3u8
