@@ -1,5 +1,9 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400230451.m3u8
+
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341537&extension=m3u8&play_token=
 
 http://mains.services/live/bshorty/Zv5le07a0J/e9301034-7ab8-4915-86f2-9e092bb06134.m3u
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400230451.m3u8
