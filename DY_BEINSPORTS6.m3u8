@@ -1,5 +1,10 @@
-#EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3988000
+
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=47788&extension=m3u8&play_token=
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=47803&extension=m3u8&play_token=
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=36475&extension=m3u8&play_token=
+
 http://mains.services/live/bshorty/Zv5le07a0J/9fda5811-7325-4549-8b8b-26de80ab5ff8.m3u8
 https://world-proxifier.xyz/daddylive_go/p/C4MWCOJQEEOB4ZIBHMVCWRKBCN4XK7TRCBSXK6TPOJ6WGLDSMF5SM3KTK5LQOBYEARJWW3JU/index.m3u8
