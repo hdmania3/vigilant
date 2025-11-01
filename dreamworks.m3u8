@@ -2,9 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
 
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45049.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45050.m3u8
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/12304.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/39761.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13088.m3u8
+
 
 
