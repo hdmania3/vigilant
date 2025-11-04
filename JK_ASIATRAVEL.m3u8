@@ -1,6 +1,16 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+#EXT-X-STREAM-INF:BANDWIDTH=2888000,RESOLUTION=1280x720
+
+http://51.89.166.17:3002/index.php?id=asiatravel_twn
+
+
+
+
+
+
+
+
+
 
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=izu9n7
 https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv002
