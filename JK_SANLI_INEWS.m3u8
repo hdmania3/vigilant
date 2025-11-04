@@ -1,8 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+#EXT-X-STREAM-INF:BANDWIDTH=2888000,RESOLUTION=1280x720
 
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=1puzgo
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=52zv69
 
 
 
