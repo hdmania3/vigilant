@@ -1,5 +1,8 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2888000,RESOLUTION=1280x720
+
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+
 http://60.16.0.216:5757/hls/7/index.m3u8
 
 http://smart.cityq.xyz:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&tsum=a18c52395c4a37814e314472c84597c9
