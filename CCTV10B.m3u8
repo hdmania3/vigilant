@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=2888000,RESOLUTION=1280x720
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+
+http://smart.cityq.xyz:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20241&tsum=41eb4d9a5a922a5c226c7b248d987707
+http://66.90.99.154:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20241&tsum=41eb4d9a5a922a5c226c7b248d987707
+
