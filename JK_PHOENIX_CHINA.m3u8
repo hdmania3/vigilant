@@ -1,12 +1,14 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2888000,RESOLUTION=1280x720
 
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4z2p14
+http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+
 
 
 
 http://51.89.166.17:3002/index.php?id=phoenixtv_hd
 
+#凤凰卫视
 
 
 
