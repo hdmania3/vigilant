@@ -1,10 +1,11 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2888000,RESOLUTION=1280x720
 
+http://51.89.166.17:3002/index.php?id=sanlitaiwan
+
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
 http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
 
-http://51.89.166.17:3002/index.php?id=sanlitaiwan
 
 http://217.116.172.49/Smart.php?id=sanlitaiwan
 
