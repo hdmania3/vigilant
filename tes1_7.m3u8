@@ -1,6 +1,11 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2888000,RESOLUTION=1280x720
 
+http://217.116.172.49/Smart.php?id=go_assp1
+
+
+
+
 http://51.89.166.17:3002/index.php?id=go_assp1
 http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444177.m3u8
 
