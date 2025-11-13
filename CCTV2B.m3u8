@@ -1,10 +1,11 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-
 http://smart.cityq.xyz:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
 http://66.90.99.154:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
+
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+
 
 
 
