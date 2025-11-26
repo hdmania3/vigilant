@@ -1,5 +1,10 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=2888000,RESOLUTION=1280x720
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+
+https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
+
+
 
 http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 http://smart.cityq.xyz:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
