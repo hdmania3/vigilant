@@ -1,12 +1,18 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=2888000,RESOLUTION=1280x720
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
 
-
-http://217.116.172.49/Smart.php?id=go_assp1
-
-
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153953.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6590.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153953.m3u8
+https://smart.946985.filegear-sg.me/smart.php?id=Assp1
+
+
+
+
+
+
+
+
 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=m3u8&play_token=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341537&extension=m3u8&play_token=
