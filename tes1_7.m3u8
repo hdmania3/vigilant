@@ -1,12 +1,16 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=2888000,RESOLUTION=1280x720
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=1775977&extension=m3u8
+http://51.89.166.17:3002/index.php?id=go_assp1
 
 http://217.116.172.49/Smart.php?id=go_assp1
 
 
 
 
-http://51.89.166.17:3002/index.php?id=go_assp1
+
 http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444177.m3u8
 
 
