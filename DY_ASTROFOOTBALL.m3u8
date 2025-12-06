@@ -2,10 +2,11 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
 
-
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401600421.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401600422.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6592.m3u8
+
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775978&extension=m3u8
 
 http://217.116.172.49/Smart.php?id=go_assp4
 
