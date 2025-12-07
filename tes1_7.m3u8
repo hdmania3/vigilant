@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+http://filex.tv:8080//live/sajid@dar/turbo@zong/302248.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775975&extension=m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163985&extension=m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163984&extension=m3u8
