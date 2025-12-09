@@ -1,4 +1,6 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=3988000,RESOLUTION=1280x720
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1121795&extension=m3u8
 
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/64.m3u8
