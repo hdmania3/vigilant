@@ -1,9 +1,8 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165885.m3u8
 
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165885.m3u8
-
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/189459.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/189459.m3u8
 
 
 http://iptv12k.com:35461/live/654321/123456/10757.m3u8
