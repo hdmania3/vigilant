@@ -1,10 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191687.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153707.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/433207.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153708.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191687.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153707.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/433207.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153708.m3u8
 
 
 http://iptv12k.com:35461/live/654321/123456/4432.m3u8
