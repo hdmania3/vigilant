@@ -1,12 +1,20 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
+
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33001.m3u8
 
 
 
-http://50.7.234.10:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
 
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/33001.m3u8
+
+
+
+
+
+
+
 http://xtv.ooo:8080/live/starmpk/mpk1234/353764.m3u8
 
 

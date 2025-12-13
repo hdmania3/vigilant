@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
-
-
-http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d45ccf70554fc40a5e4679209f61fbe9
+http://smart.cityq.xyz:8278/Hbo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d45ccf70554fc40a5e4679209f61fbe9
 
