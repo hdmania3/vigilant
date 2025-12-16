@@ -1,6 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+https://tzh911.qzz.io/play-smt.php?id=Acricket
+
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163988&extension=m3u8
 
 
