@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
 
+http://smart.cityq.xyz:8278/TV3/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a56c919d41a4186f4ab4bf1dddeb950c
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400200329.m3u8
 
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200329.m3u8
 
-http://50.7.234.10:8278/TV3/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a56c919d41a4186f4ab4bf1dddeb950c
