@@ -1,9 +1,10 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://51.89.166.17:3002/index.php?id=go_assp1
-http://51.89.166.17:3002/index.php?id=Assp1
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153953.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6590.m3u8
+http://51.89.166.17:3002/index.php?id=go_assp1
+http://51.89.166.17:3002/index.php?id=Assp1
+
 
 https://tzh911.qzz.io/play-smt.php?id=Assp1
 https://tzh911.qzz.io/play-smt.php?id=go_assp1
