@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/165650.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/161496.m3u8
-http://muka03.wanicelife.com:8880/live/29us031901/adsf3rdsdc/3189.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/30692.m3u8
