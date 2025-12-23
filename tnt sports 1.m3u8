@@ -1,6 +1,9 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1096.m3u8
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/2238.m3u8
+
+
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6202.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/13780.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/433220.m3u8
