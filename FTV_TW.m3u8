@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+https://live.catvod.com/live.php?id=ftvhd_taiwan
+
 http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ec1ef7ad7098ca80720209ccbbb2ba93
 http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ec1ef7ad7098ca80720209ccbbb2ba93
 
