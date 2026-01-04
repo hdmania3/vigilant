@@ -1,15 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://51.89.166.17:3002/index.php?id=Channel8HD
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1180.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1181.m3u8
 http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/5104.m3u8
 
-
-
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6678.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/33000.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6679.m3u8
-https://tzh911.qzz.io/play-smt.php?id=Channel8HD
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/19.m3u8
 
