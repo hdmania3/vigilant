@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+https://t.freetv.fun/live/cctv5-plus-1.m3u8
+
 https://live.catvod.com/live.php?id=cctv5plus
 
 http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=MF6F3069243930692439&ct=19225&tsum=7f79687e9afcfd2a0757b7b74c32fedd
