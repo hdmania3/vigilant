@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-https://live.catvod.com/live.php?id=cctv8
 http://tvlist.top/jd/index.php?id=cctv8&qt=183.224.122.114:8014
+https://live.catvod.com/live.php?id=cctv8
+
 
 
 http://smart.cityq.xyz:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&tsum=b0820eed1a1cf208b8f5426c1cf2ae42
