@@ -1,6 +1,9 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://tvlist.top/jd/index.php?id=cctv7&qt=183.224.122.114:8014
+https://live.catvod.com/live.php?id=cctv7
+
+
 http://66.90.99.154:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&tsum=d248ac6bc983788ba529bcfb56199280
 http://smart.cityq.xyz:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&tsum=d248ac6bc983788ba529bcfb56199280
 
