@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+https://live.catvod.com/live.php?id=cctv17
+http://tvlist.top/jd/index.php?id=cctv17&qt=183.224.122.114:8014
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
+
+
+
+
+
