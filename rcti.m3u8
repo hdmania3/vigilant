@@ -1,11 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
-
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/191803.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/400200742.m3u8
-http://103.179.182.117:6768/hls/51/51.m3u8
-
-
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/149818.m3u8
+http://tv.casindo.org/hls/51/51.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
