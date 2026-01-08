@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://tvlist.top/jd/index.php?id=cctv5&qt=183.224.122.114:8014
+
 https://live.catvod.com/live.php?id=cctv5
 
 http://smart.cityq.xyz:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
