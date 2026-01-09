@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29150.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/1158.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29150.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1158.m3u8
 
 
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/153952.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/6589.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/153952.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/6589.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163986&extension=m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1163683&extension=m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=1775976&extension=m3u8
