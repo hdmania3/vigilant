@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/34489.m3u8
-http://exm3u.extraott.com:80/live/DRZKF28T/S8HLDN13/29629.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34489.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29629.m3u8
 
 http://smart.cityq.xyz:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 
