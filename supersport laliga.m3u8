@@ -1,19 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-
 http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/33860.m3u8
-
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/159894.m3u8
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/190011.m3u8
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/190005.m3u8
-
-
-
-
-
-
-http://wanicelife.com:8880/live/DAALM2881/xZXTEkzgUu/60797.m3u8
-http://wanicelife.com:8880/live/29us031901/adsf3rdsdc/60797.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/29833.m3u8
 
 
 
