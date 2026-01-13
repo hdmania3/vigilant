@@ -1,15 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
-
-
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/45053.m3u8
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/45079.m3u8
-
-http://nonton.site:8888/live/DZqjznfyyn/3Q9O2vucT6/94.m3u8
-
-
-
-
-http://xtv.ooo:8080/live/starmpk/mpk1234/350962.m3u8
-http://opplex.tv:8080/live/starmpk/mpk1234/350962.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://vipnorseman.top:8080/live/VIP0171172364679510/81750162830398/34345.m3u8
