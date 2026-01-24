@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://line.tx-4k.com:80/live/2a7b28dc40/b0327c636e/1032487.m3u8
+
 http://31666-salad.tx-4kott.com:80/live/2a7b28dc40/b0327c636e/1032487.m3u8
 http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1032487.m3u8
 http://vpn.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1032487.m3u8
