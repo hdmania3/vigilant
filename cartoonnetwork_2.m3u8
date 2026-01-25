@@ -1,11 +1,17 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34449.m3u8
+http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29018.m3u8
+
+
+
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/400406155.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/191653.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/191652.m3u8
 
+
 http://nonton.site:8888/live/DZqjznfyyn/3Q9O2vucT6/680.m3u8
 http://nonton.site:8888/live/XtreamFlixID/w9RLHbWJY4/680.m3u8
 
-
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
