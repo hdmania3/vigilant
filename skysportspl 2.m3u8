@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458669.m3u8
 http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458656.m3u8
+
 
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/29016.m3u8
 http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/883272.m3u8
