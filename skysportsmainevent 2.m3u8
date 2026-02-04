@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/34335.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/1256711.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34335.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1256711.m3u8
 
 http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/83450.m3u8
 http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458672.m3u8
@@ -9,8 +9,8 @@ http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458672.m3u8
 
 
 
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/191674.m3u8
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/401384748.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/191674.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/401384748.m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10514&extension=m3u8
 
 
