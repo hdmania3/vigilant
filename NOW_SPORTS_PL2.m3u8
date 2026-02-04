@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/164319.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/164319.m3u8
 
-http://line.smartfr.xyz:80/live/GLN5LOU96J/9SWP83GC/400230450.m3u8
+http://EXM3U.extraott.com:80/live/GLN5LOU96J/9SWP83GC/400230450.m3u8
 
 http://mains.services/live/bshorty/Zv5le07a0J/41176be7-518a-4f04-a721-7d89161cf8fc.m3u
