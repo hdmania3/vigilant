@@ -1,14 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
-http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-
-
-
-
-http://51.89.166.17:3002/index.php?id=phoenixtv_hd
-
-#凤凰卫视
-
-
-
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/5108.m3u8
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/36.m3u8
