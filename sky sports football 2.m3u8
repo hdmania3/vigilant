@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/883274.m3u8
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/34349.m3u8
+http://nnrhvbwa.pricedns.com:900/live/6JG6WQTK/1RS973F7/883274.m3u8
+http://nnrhvbwa.pricedns.com:900/live/6JG6WQTK/1RS973F7/34349.m3u8
 
 
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/191691.m3u8
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/153695.m3u8
-http://nnrhvbwa.pricedns.com:900/live/YHHE2CE2/83UUKJC8/433208.m3u8
+http://nnrhvbwa.pricedns.com:900/live/6JG6WQTK/1RS973F7/191691.m3u8
+http://nnrhvbwa.pricedns.com:900/live/6JG6WQTK/1RS973F7/153695.m3u8
+http://nnrhvbwa.pricedns.com:900/live/6JG6WQTK/1RS973F7/433208.m3u8
 
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=10516&extension=m3u8
 http://v3tv.live/play/live.php?mac=00:1a:79:f5:5f:02&stream=50273&extension=m3u8
