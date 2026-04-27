@@ -1,13 +1,9 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
-http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458669.m3u8
-http://line.trex-official.ink:80/live/2a7b28dc40/b0327c636e/1458656.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/577946.m3u8
 
-
-http://nnrhvbwa.pricedns.com:900/live/6JG6WQTK/1RS973F7/29016.m3u8
 http://nnrhvbwa.pricedns.com:900/live/6JG6WQTK/1RS973F7/883272.m3u8
-
+http://nnrhvbwa.pricedns.com:900/live/6JG6WQTK/1RS973F7/29016.m3u8
 
 
 http://nnrhvbwa.pricedns.com:900/live/6JG6WQTK/1RS973F7/191686.m3u8
