@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://line.dndnscloud.ru:80/live/5ffa833dbc/eedb35005411/601844.m3u8
+
+
+
