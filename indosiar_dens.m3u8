@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
 http://smart.cityq.xyz:8278/Indosiar/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=ec65e6193af63cacb2e29e9cf9bc2213
 
 http://nonton.site:8888/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
